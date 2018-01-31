@@ -1,2 +1,6 @@
-# react_redux_store
-Small react + redux emarket.  
+# Интернет-магазин на React/Redux
+**EComerce on React/Redux**
+
+How to run: 
+- **npm install**
+- **npm start**
