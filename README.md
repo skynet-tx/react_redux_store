@@ -18,3 +18,7 @@ _http://ramdajs.com/docs/_
 - `R.indexBy - http://ramdajs.com/docs/#indexBy`
 - `R.concat - http://ramdajs.com/docs/#concat`
 - `R.length - http://ramdajs.com/docs/#length`
+- `R.prop - http://ramdajs.com/docs/#prop`
+- `R.assoc - http://ramdajs.com/docs/#assoc`
+- `R.find - http://ramdajs.com/docs/#find`
+- `R.propEq - http://ramdajs.com/docs/#propEq`
