@@ -15,3 +15,6 @@ _http://ramdajs.com/docs/_
 - `R.indexBy - http://ramdajs.com/docs/#indexBy`
 - `R.take - http://ramdajs.com/docs/#take`
 - `R.map - http://ramdajs.com/docs/#map`
+- `R.indexBy - http://ramdajs.com/docs/#indexBy`
+- `R.concat - http://ramdajs.com/docs/#concat`
+- `R.length - http://ramdajs.com/docs/#length`
